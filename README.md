@@ -24,7 +24,7 @@ I am an Informatics student at **Universitas Muhammadiyah Malang (UMM)** with a 
 
 ## 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=angielinaa&show_icons=true&theme=radical" alt="Enzy's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angielinaa&theme=radical&hide_border=true" alt="Enzy's GitHub Streak" />
 </p>
 
 ## 📫 Let's Connect!
