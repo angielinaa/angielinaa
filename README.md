@@ -1,34 +1,41 @@
-# 🧠 NeuroGest-POS: AI-Powered Smart Cashier for Deaf Communities
+# Hi there, I'm Enzy! 👋🚀
 
+### Informatics Student | Problem Solver | AI & Tech Enthusiast
+
+*"Technology is not measured by the complexity of its system, but by its impact in humanizing humans."*
+
+I am an Informatics student at **Universitas Muhammadiyah Malang (UMM)** with a strong passion for Artificial Intelligence, Computer Vision, and human-centered design. I don't just consume technology; I build solutions to solve real-world problems.
+
+## 🚀 What I'm Up To
+- 🔭 **Innovating for Inclusion:** Currently leading the development of **NeuroGest-POS** (National PKM Project), an AI & IoT-powered smart cashier prototype utilizing CNN-LSTM to translate sign language into real-time text for Deaf cashiers.
+- 🤝 **Leadership & Community:** Serving as the **Team Leader** for Strategic Global Development (SGD) at AIESEC in UMM. Check out my [SGD Onboarding repository](https://github.com/angielinaa/sgd-onboarding)!
+- 🌱 **Continuous Learning:** Exploring Python-based Computer Vision (like gesture vocalizers), GUI apps, and diving into Cybersecurity (CTF challenges).
+- 🌍 **Global Impact:** Proud participant of the **Asia-Pacific Forum on Sustainable Development (APFSD) 2026**.
+- 💬 **Ask me about:** Python, C, Problem Solving, and Tech for Social Impact.
+
+## 💻 Tech Stack & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-In_Development_(PKM)-FF9900?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Domain-AI_&_IoT-00599C?style=for-the-badge" alt="Domain"/>
-  <img src="https://img.shields.io/badge/Model-CNN--LSTM-3776AB?style=for-the-badge" alt="Model"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
-> *"We refuse conventional solutions that force people with disabilities to adapt; instead, the system itself must be re-engineered."*
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=angielinaa&show_icons=true&theme=radical" alt="Enzy's GitHub Stats" />
+</p>
 
-## 💡 Project Overview
-**NeuroGest-POS** is an innovative point-of-sale (POS) system designed specifically to empower Deaf cashiers. Developed as part of the National Student Creativity Program (PKM Nasional), this project aims to bridge the communication gap between Deaf cashiers and customers. 
-
-Instead of relying on written notes or interpreters, NeuroGest-POS utilizes an integration of Artificial Intelligence (AI) and the Internet of Things (IoT) to translate sign language into text in real-time, ensuring a seamless and inclusive transaction process.
-
-## 🎯 Key Features
-- **Real-Time Translation:** Instantly captures and translates sign language gestures into readable text on the POS screen.
-- **Inclusive UI/UX:** Designed with a human-centered approach to ensure accessibility and ease of use for both the cashier and the customer.
-- **IoT Integration:** Connects the gesture-recognition hardware smoothly with the cashier's database and display.
-
-## 🛠️ System Architecture & Technology
-The core of NeuroGest-POS relies on advanced machine learning models:
-- **CNN-LSTM (Convolutional Neural Network - Long Short-Term Memory):** Used to accurately detect spatial features from hand gestures (CNN) and process the sequence of movements over time (LSTM).
-- **Computer Vision:** To capture and frame the gestures accurately in various lighting conditions.
-- **IoT Ecosystem:** Facilitating the hardware-to-software communication at the cashier desk.
-
-## 👥 My Role: Team Leader
-As the **Team Leader** for this project, my responsibilities include:
-- Leading the end-to-end development cycle, from ideation and literature review to methodology planning.
-- Coordinating between the technical team (AI/IoT development) and the research team.
-- Bridging the solution with our real-world implementation partner, **Mentari Mart**, to ensure the prototype solves actual operational challenges.
-
----
-*Note: This repository serves as a portfolio showcase. The full source code and proprietary datasets are currently kept private as part of the ongoing National PKM competition guidelines.*
+## 📫 Let's Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/maysa-angelina-5801b3264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:maysa.angelinaa@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email"/>
+  </a>
+  <a href="mailto:maysaangelina@webmail.umm.ac.id">
+    <img src="https://img.shields.io/badge/Campus_Email-00599C?style=for-the-badge&logo=google&logoColor=white" alt="Campus Email"/>
+  </a>
+</p>
