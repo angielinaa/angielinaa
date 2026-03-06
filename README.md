@@ -8,6 +8,7 @@ I am an Informatics student at **Universitas Muhammadiyah Malang (UMM)** with a 
 
 ## 🚀 What I'm Up To
 - 🔭 **Innovating for Inclusion:** Currently leading the development of **NeuroGest-POS** (National PKM Project), an AI & IoT-powered smart cashier prototype utilizing CNN-LSTM to translate sign language into real-time text for Deaf cashiers.
+- 🤝 **Leadership & Community:** Serving as the **Team Leader** for Strategic Global Development (SGD) at AIESEC in UMM. Check out my [SGD Onboarding repository](https://github.com/angielinaa/sgd-onboarding)!
 - 🌱 **Continuous Learning:** Exploring Python-based Computer Vision (like gesture vocalizers), GUI apps, and diving into Cybersecurity (CTF challenges).
 - 🌍 **Global Impact:** Delegate at the **Asia-Pacific Forum on Sustainable Development (APFSD) 2026** and Collaborative Drafter for the Indonesian team's Call to Action (CTA) document.
 - 💬 **Ask me about:** Python, C, Problem Solving, and Tech for Social Impact.
