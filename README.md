@@ -10,10 +10,10 @@ I am continuously honing my skills to build scalable solutions and grow as a Sof
 
 ## 💻 Languages & Tools I Frequently Use
 
-*   **Programming Languages:** Python, Java, C, JavaScript, HTML/CSS, SQL
-*   **AI, ML & Data Science:** PyTorch, Hugging Face, LangChain, Groq API, Google AI, ChromaDB, OpenCV, MediaPipe
+*   **Programming Languages:** Python, TypeScript, JavaScript, Java, C, HTML/CSS, SQL
+*   **AI, ML & Data Processing:** ChromaDB, Sentence-Transformers, Groq Llama 3 API, Google AI, PyMuPDF, pdfplumber, OpenCV, MediaPipe
 *   **Web & App Development:** React, Node.js, Tailwind CSS, Streamlit
-*   **Tools & Platforms:** Git, GitLab, Google Colab, Vercel, MySQL, Figma, Canva
+*   **Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitLab, Vercel, Aiven MySQL, Figma, Canva, Adobe Photoshop
 
 ### 📊 My Language Statistics
 *(Auto-generated based on my GitHub activity)*
