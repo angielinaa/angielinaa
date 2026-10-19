@@ -11,8 +11,9 @@ I am continuously honing my skills to build scalable solutions and grow as a Sof
 ## 💻 Languages & Tools I Frequently Use
 
 *   **Programming Languages:** Python, Java, C, JavaScript, HTML/CSS, SQL
-*   **Frameworks & Libraries:** React, Node.js, Tailwind CSS, Streamlit, OpenCV, MediaPipe
-*   **Tools & Platforms:** Git, GitLab, ChromaDB, Figma, Canva
+*   **AI, ML & Data Science:** PyTorch, Hugging Face, LangChain, Groq API, Google AI, ChromaDB, OpenCV, MediaPipe
+*   **Web & App Development:** React, Node.js, Tailwind CSS, Streamlit
+*   **Tools & Platforms:** Git, GitLab, Google Colab, Vercel, MySQL, Figma, Canva
 
 ### 📊 My Language Statistics
 *(Auto-generated based on my GitHub activity)*
