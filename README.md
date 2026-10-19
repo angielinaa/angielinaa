@@ -6,7 +6,7 @@
 
 I am an Informatics student at Universitas Muhammadiyah Malang (UMM) with a strong passion for software development, whether it is building web platforms or mobile applications. I am deeply interested in exploring Artificial Intelligence and Machine Learning. Additionally, I am currently taking my first steps into cybersecurity as a complete beginner, eager to learn how to build secure and robust systems. 
 
-My ultimate goal is to grow as a Software Engineer and make a significant impact at top tech companies like Google, NVIDIA, or Microsoft.
+I am continuously honing my skills to build scalable solutions and grow as a Software Engineer in the tech industry.
 
 ## 💻 Languages & Tools I Frequently Use
 
@@ -40,5 +40,7 @@ My ultimate goal is to grow as a Software Engineer and make a significant impact
   <a href="https://www.linkedin.com/in/maysa-angelina/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-atthemostfear-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discordapp.com/users/atthemostfear">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
